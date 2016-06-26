@@ -1,0 +1,19 @@
+{
+  "name": "beebot",
+  "version": "1.0.0",
+  "description": "A Discord bot that posts the script of Bee Movie line-by-line.",
+  "main": "BeeBot.js",
+  "dependencies": {
+    "discord.js": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node BeeBot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "110Percent",
+  "license": "ISC"
+}
