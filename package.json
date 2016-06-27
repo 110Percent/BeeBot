@@ -17,6 +17,6 @@
   "author": "110Percent",
   "license": "ISC",
   "scripts": {
-    "start": "BeeBot.js"
+    "start": "/BeeBot.js"
   }
 }
